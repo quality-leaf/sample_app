@@ -1,0 +1,4 @@
+<% provide(:title, 'Contact')%>
+<h1>Contact</h1>
+<p>Contact us <a href="http://railstutorial.jp/contact/">Ruby on Rails contact page</a>.
+</p>
